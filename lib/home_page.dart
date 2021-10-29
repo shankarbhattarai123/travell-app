@@ -393,7 +393,7 @@ class _FrontpageWidgetState extends State<FrontpageWidget> {
                             image: DecorationImage(
                               fit: BoxFit.fitWidth,
                               image: Image.network(
-                                'assets/images/imageSanAn@3x.jpg',
+                                'https://eranimahal.com/wp-content/uploads/2021/03/jitgadhi-killa-4.jpg',
                               ).image,
                             ),
                             boxShadow: [
