@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 // import 'Intro_pages/intro1.dart';
 // import 'home_page.dart';
-import 'profile_page.dart';
+// import 'profile_page.dart';
+import 'description_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -28,7 +29,7 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home:ProfilepageWidget(),
+      home:DescriptionPageWidget(),
     );
   }
 }
